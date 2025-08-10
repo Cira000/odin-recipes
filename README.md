@@ -1,0 +1,2 @@
+This project is about basic recipies website. The website will consist of a main index page which will have links to a few recipes. This is my firrst project so it won't be that pretty.
+Milos Cirovic 10.08.2025.
